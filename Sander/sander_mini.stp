@@ -9,12 +9,12 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'D:\\Warefab\\Projects\\Inhouse\\Sander\\sander_mini.stp',
+/* name */ 'sander_mini.stp',
 /* time_stamp */ '2021-12-03T12:27:11+03:00',
 /* author */ ('Muchiri'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Inventor LT',
+/* originating_system */ 'CAD',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
